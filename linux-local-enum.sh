@@ -15,36 +15,7 @@ NORMAL="\033[0;39m"
 echo Linux Enumeration Script
 echo Simon Owens
 echo simon.j.owens.ctr@mail.mil
-echo v1.0
 echo Starting Numeration Script....
-cat << "EOF"
-
-
-                       .
-                        `:.
-                          `:.
-                  .:'     ,::
-                 .:'      ;:'
-                 ::      ;:'
-                  :    .:'
-                   `.  :.
-EOF
-
-
-sleep 1.4
-
-
-printf "Version: $YELLOW 1.0 $NORMAL \n"
-
-
-sleep 0.4
-
-
-sleep 0.4
-printf "Disclaimer: \n"
-printf "\n"
-printf "$RED Simon Owens is not responsible for misuse or for any damage that you may cause! \n
- You agree that you use this software at your own risk. $NORMAL  \n"
 
 
 printf "\n"
