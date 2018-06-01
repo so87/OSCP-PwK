@@ -5,29 +5,6 @@ echo                         simon.j.owens.ctr@mail.mil
 echo                                Simon J Owens
 
 
-echo                                       .
-echo                                        `:.
-echo                                          `:.
-echo                                  .:'     ,::
-echo                                 .:'      ;:'
-echo                                 ::      ;:'
-echo                                  :    .:'
-echo                                   `.  :.
-
-
-
-
-echo Version:1.0
-
-
-echo Disclaimer:
-echo Simon Owens is not responsible for misuse or for any damage that you may cause! 
-echo You agree that you use this software at your own risk.
-echo Prerequisites: Put accesschk.exe in the same directory as this script.
-echo -------------------------------------------------------------------------------
-pause
-
-
 echo . >> sys-info.txt
 echo . >> sys-info.txt
 echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ >> sys-info.txt
