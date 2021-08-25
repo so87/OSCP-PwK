@@ -5,4 +5,4 @@ COPY . .
 RUN sh /install-tools.sh
 
 WORKDIR /data
-VOLUME ["/data"]
+VOLUME ["/data","/scripts"]
